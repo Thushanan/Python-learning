@@ -12,4 +12,4 @@
 
 Food = ["Pizza", int(9), "Pasta", "Salad"]
 for item in Food:
-    print(item)
+    print(item) 
